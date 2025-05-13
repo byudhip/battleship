@@ -1,7 +1,8 @@
 {
-  "name": "template",
+  "name": "battleship",
   "version": "0.1.0",
-  "description": "to be used as template for future projects",
+  "type": "module",
+  "description": "my interpretation of the battleship game",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -14,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byudhip/template.git"
+    "url": "git+https://github.com/byudhip/battleship.git"
   },
   "keywords": [],
   "author": "Yudhi Pratama",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/byudhip/template/issues"
+    "url": "https://github.com/byudhip/battleship/issues"
   },
-  "homepage": "https://github.com/byudhip/template#readme",
+  "homepage": "https://github.com/byudhip/battleship#readme",
   "devDependencies": {
     "@babel/core": "^7.27.1",
     "@babel/preset-env": "^7.27.2",
